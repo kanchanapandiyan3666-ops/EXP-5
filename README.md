@@ -40,5 +40,7 @@ REGULATION CHARACTERISTICS:
 ![Output](5K.png)
 V-I & REGULATION CHARACTERISTICS:
 ![Output](5KK.png)
+
 RESULT:
+
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.

@@ -28,11 +28,12 @@ PROCEDURE:
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
-
+![Output](5.png)
+![Output](55.png)
 REGULATION CHARACTERISTICS:
-
+![Output](5K.png)
 V-I & REGULATION CHARACTERISTICS:
-
+![Output](5KK.png)
 PRECAUTIONS:
 
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
